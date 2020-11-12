@@ -1,7 +1,7 @@
 # simple-youtube-dl-playlist-script
-This script will download youtube videos to your desired location.
+This script will download youtube audio files from playlist directly to your desired location.
 
-The script will work onyl for Linux Users. 
+Linux Users only. 
 
 PREREQUISITE:
 
